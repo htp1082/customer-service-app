@@ -1,0 +1,13 @@
+.progress{
+    background: linear-gradient(to right,#632EE3,#9F62F2);
+    cursor: pointer;
+    color: white;
+    font-size: larger;
+}
+
+.resolve{
+    background: linear-gradient(to right,#02a53b ,#0B5E06);
+    cursor: pointer;
+    color: white;
+    font-size: larger;
+}

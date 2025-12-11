@@ -4,7 +4,7 @@ import "./Navbar.css"
 const Navbar = () => {
   return (
     <div>
-      <div className=" navbar bg-base-100 shadow-sm flex justify-around">
+      <div className=" navbar bg-base-100 flex justify-between">
         <div>
           <a className="btn btn-ghost text-xl">Htp-Customer-Service</a>
         </div>
